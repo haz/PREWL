@@ -77,6 +77,14 @@ print("Prediction: ", resp)
 print()
 ```
 
+## Installing
+
+For now, you can install the package locally by running the following from the top-level of the project (`sudo` may be required):
+
+```bash
+pip3 install -e .
+```
+
 ## Contributing
 
 Coming soon...
